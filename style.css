@@ -1,0 +1,194 @@
+body
+{
+	margin: 0 !important;
+	background-color: #f2f2f2;
+	font-family: 'Lato', sans-serif;
+	color: #4e4e32;
+}
+
+#logo
+{
+	height: 110px;
+	background-color: white;
+	text-align: center;
+	padding-top: 65px;
+	padding-bottom: 5px;
+	letter-spacing: 1px;
+	font-size: 25px;
+}
+
+#logo a
+{
+	letter-spacing: 1px;
+	font-size: 25px;
+	color: #4e4e32;
+	text-decoration: none;
+	padding-left: 0px;
+}
+
+#logo i
+{
+	padding-right:15px;
+}
+
+#menu
+{
+	height: 130px;
+	background-color: #00e600;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+#menu ul
+{
+	margin-left: auto;
+	margin-right: auto;	
+	padding-right: 35px;
+	margin-top: 0;
+}
+
+#menu li
+{
+	margin-top: 0;
+	display: inline-block;
+	padding: 40px;
+	padding-top: 0px;
+}
+
+#menu i
+{
+	font-size: 60px;
+}
+
+#menu a
+{
+	margin-top: 0;
+	display: block;
+	height: 130px;
+	width: 160px;
+	color: white;
+	text-decoration: none;
+	padding-top: 15px;
+	letter-spacing: 0.75px;
+}
+
+#menu a:hover
+{
+	opacity: 0.85;
+}
+
+.button_text
+{
+	line-height: 150%;
+	font-size: 18px;
+}
+
+.art
+{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;	
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.article1
+{
+	width: 750px;
+	float: left;
+}
+
+.article2
+{
+	width: 770px;
+	margin-left: 220px;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+.articlew p
+{
+	font-size: 18px;
+}
+
+.il1
+{
+	margin-left: 10px;
+	float: left;
+	height: 220px;
+	width: 220px;
+}
+
+.il2
+{
+	float: left;
+	height: 220px;
+	width: 220px;
+}
+
+#content
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 40px;
+	padding-bottom: 35px;
+	width: 1000px;
+	background-color: white;
+	min-height: 300px;
+	text-align: center;
+}
+
+h1
+{	
+	margin:0;
+	text-align: justify;	
+	font-size: 22px;
+	line-height: 130%;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
+}
+
+p
+{
+	margin:0;
+	text-align: justify;
+	font-size: 20px;
+	line-height: 130%;
+	margin-bottom: 40px;
+}
+
+#contact p
+{
+	font-size: 20px;
+	padding-top: 20px;
+}
+
+#contact h1
+{
+	font-size: 21px;
+	padding-top: 15px;
+}
+
+#about p
+{
+	font-size: 18px;
+}
+
+#footer
+{
+	height: 40px;
+	background-color: #00e600;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 20px;
+	color: white;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
